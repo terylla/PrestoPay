@@ -1,5 +1,7 @@
 {
   "name": "PrestoPay",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }
